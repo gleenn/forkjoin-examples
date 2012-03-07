@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    forkjoin (1.0.1-java)
+      jsr166y
+    jsr166y (20120125)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  forkjoin
